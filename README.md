@@ -1,1 +1,2 @@
-# Responsive-image-gallery
+# Image_Galley_Responsive
+RESPONSIVE CSS IMAGE GALLERY.
